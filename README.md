@@ -1,0 +1,2 @@
+# exersize
+дз по git
